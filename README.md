@@ -27,13 +27,7 @@ $ cd sort-visualizer
 $ npm install
 ```
 
-### Learn More
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## App Conventions
 
@@ -67,6 +61,4 @@ The app has a switch for turning on dark mode.
 
 ![Sort Visualizer - dark mode](https://i.imgur.com/HwwiX7X.png)
 
-## License
 
-Sort Visualizer is released under the [MIT License](https://choosealicense.com/licenses/mit/)
